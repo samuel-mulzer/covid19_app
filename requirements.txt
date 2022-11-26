@@ -1,0 +1,5 @@
+streamlit
+numpy
+pandas
+matplotlib
+covid19-model==1.2
